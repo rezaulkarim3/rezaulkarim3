@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Rezaul Karim</h1
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaulofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rezaulofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaulkarim3&label=Profile%20views&color=0e75b6&style=flat" alt="rezaulkarim3" /> </p>
 
  📫 How to reach me **reezaulofficial@gmail.com**
 <br>
@@ -22,10 +22,10 @@
 <br>
 <h1 align="center">Github Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaulofficial&show_icons=true&locale=en&layout=compact" alt="rezaulofficial" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaulkarim3&show_icons=true&locale=en&layout=compact" alt="rezaulkarim3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaulofficial&show_icons=true&locale=en" alt="rezaulofficial" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaulkarim3&show_icons=true&locale=en" alt="rezaulkarim3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaulofficial&" alt="rezaulofficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaulkarim3&" alt="rezaulkarim3" /></p>
 
-<img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rezaulofficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rezaulkarim3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
